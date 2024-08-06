@@ -64,9 +64,12 @@
 ![](img/9.png)
 
 
-
+Проверим Web-интерфейс приложения: 
 
 ![](img/11.png)
 
+![](img/12.png)
 
 
+Ссылка на манифесты:
+https://github.com/dmistus/Kubernetes_10/tree/main/src
